@@ -32,17 +32,15 @@ Download the data from this Google Drive folder:
 
 https://drive.google.com/drive/folders/1552FV2cC8LJkCo0L0AC9Tq79C_-I8v2d?usp=drive_link
 
-After downloading the files, place them in a folder called:
-
-data/raw/
+The required `data/raw/` folders have already been created within this GitHub repository. After downloading the data files from Google Drive, simply place them into the existing `data/raw/` folder.
 
 ## How to run the code
 
 1. Download this GitHub repository.
 2. Download the data from the Google Drive link above.
-3. Put the data files into `data/raw/`.
-4. Open the R script.
-5. Run the script in RStudio.
+3. Place the downloaded data files into the existing `data/raw/` folder within the repository.
+4. Open the R script in :contentReference[oaicite:0]{index=0}.
+5. Run the script.
 
 
 
