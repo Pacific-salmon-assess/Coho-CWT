@@ -23,9 +23,6 @@ The goal of this project is to explore spatiotemporal patterns in ocean distribu
 
 
 
-# Coho CWT Analysis
-
-This repository contains R scripts for analyzing coho salmon coded-wire tag release and recovery data.
 
 ## Data
 
