@@ -1,5 +1,7 @@
 # Coho Salmon CWT Release & Recovery Analysis
 
+
+
 ## Overview
 
 This repository contains data and code for analyzing and visualizing Coho salmon coded-wire tag (CWT) release and recovery data across British Columbia and Alaska.
@@ -17,6 +19,37 @@ Alaska regions
 All corresponding recoveries of these tagged fish across fisheries and geographic regions
 
 The goal of this project is to explore spatiotemporal patterns in ocean distribution and fishery exploitation of Coho salmon stocks, with a particular focus on data-deficient Central Coast stocks.
+
+
+
+
+# Coho CWT Analysis
+
+This repository contains R scripts for analyzing coho salmon coded-wire tag release and recovery data.
+
+## Data
+
+The data files are too large to store directly on GitHub.
+
+Download the data from this Google Drive folder:
+
+https://drive.google.com/drive/folders/1552FV2cC8LJkCo0L0AC9Tq79C_-I8v2d?usp=drive_link
+
+After downloading the files, place them in a folder called:
+
+data/raw/
+
+## How to run the code
+
+1. Download this GitHub repository.
+2. Download the data from the Google Drive link above.
+3. Put the data files into `data/raw/`.
+4. Open the R script.
+5. Run the script in RStudio.
+
+
+
+
 
 ## Data Sources
 
